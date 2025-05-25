@@ -1,5 +1,12 @@
 # EXPERIMENT-07-INTERFACING-CAMERA-MODULE-ON-EDGE-COMPUTER-FOR-OCCUPANCY-DETECTION-
 
+
+### NAME V.DEEPAK KUMAR
+### DEPARTMENT AIML
+### ROLL NO 212224240029
+### DATE OF EXPERIMENT 20-04-2025
+
+
 ### AIM:
 To interface a USB/CSI camera module with an edge computing platform (e.g., Raspberry Pi, Jetson Nano, etc.) and implement an occupancy detection system using the Histogram of Oriented Gradients (HOG) algorithm.
 
